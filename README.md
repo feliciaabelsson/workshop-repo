@@ -1,3 +1,0 @@
-# workshop-repo
-
-Test :)
